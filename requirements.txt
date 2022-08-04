@@ -1,6 +1,5 @@
 streamlit
 pandas
-subprocess
 plotly
 TikTokApi
 sys
